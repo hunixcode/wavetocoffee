@@ -13,6 +13,11 @@
 
 ## Installation
 
+Here's a snippet I made at the end of the day.
+Those songs are fetched using the iTunes api for now as a quick way to display results.
+
+<img src="./assets/preview.png" height="500px">
+
 App still under construction 
 
 <img src="https://preview.redd.it/anyone-know-the-name-of-this-meme-v0-zcnq40jtx0s71.png?auto=webp&s=4a04680640dcf0617b21228ef428998aa1598ddf" width="200">
