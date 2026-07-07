@@ -8,7 +8,7 @@ export default function TabsLayout() {
       styles={styles.tab}
       screenOptions={{
         headerShown: false,
-        tabBarActiveTintColor: 'blue',
+        tabBarActiveTintColor: 'black',
       }}
     >
       <Tabs.Screen
@@ -32,6 +32,7 @@ export default function TabsLayout() {
 
 const styles = StyleSheet.create({
   tab: {
-    justifyContent: 'center'
+    justifyContent: 'center',
+    alignSelf: 'center',
   }
 })
